@@ -1,0 +1,19 @@
+/* Education.css */
+
+.education-section {
+    margin-top: 20px;
+  }
+  
+  .education-entry {
+    margin-bottom: 20px;
+  }
+  
+  .degree {
+    font-style: italic;
+    color: #555;
+  }
+  
+  .date {
+    color: #888;
+  }
+  
