@@ -4,7 +4,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <h1>Shambhu Jagtap's Portfolio</h1>
+      <h1>Rohan's Portfolio</h1>
     </header>
   );
 };
